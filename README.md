@@ -1,5 +1,15 @@
-# Paint Implementation in C with CLI
+# **Paint (CLI)**
 
-This was a basic project for my introduction to computer science course (COMP1511). This was actually one of the projects that made me fall in love with computer programming, as up to this point I was only making games in Minecraft with commands and hosting servers.
+**Type:** Console App · **Tech Stack:** C (ANSI), CLI · **Status:** Archived
 
-There is very little to this project beyond adding simple tools, but I am uploading it here in order to archive it permanently.
+## **Overview**
+A minimal command-line "paint" program built for **COMP1511**, featuring a simple toolset and an ASCII canvas; the project that got me hooked on programming.
+
+## **Features**
+
+* Command-driven drawing on a text grid.
+* Basic tools (e.g., place/erase characters, clear canvas).
+* Lightweight, single-file style, easy to compile and run.
+
+## **Purpose**
+Uploaded for permanent archival; a small but formative step from game scripting to systems programming.
